@@ -1,0 +1,17 @@
+C:\Users\Acer\Desktop\ISIT\bin\Debug\net6.0\ISIT.exe
+C:\Users\Acer\Desktop\ISIT\bin\Debug\net6.0\ISIT.deps.json
+C:\Users\Acer\Desktop\ISIT\bin\Debug\net6.0\ISIT.runtimeconfig.json
+C:\Users\Acer\Desktop\ISIT\bin\Debug\net6.0\ISIT.dll
+C:\Users\Acer\Desktop\ISIT\bin\Debug\net6.0\ISIT.pdb
+C:\Users\Acer\Desktop\ISIT\obj\Debug\net6.0\ISIT.csproj.AssemblyReference.cache
+C:\Users\Acer\Desktop\ISIT\obj\Debug\net6.0\ISIT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\Desktop\ISIT\obj\Debug\net6.0\ISIT.AssemblyInfoInputs.cache
+C:\Users\Acer\Desktop\ISIT\obj\Debug\net6.0\ISIT.AssemblyInfo.cs
+C:\Users\Acer\Desktop\ISIT\obj\Debug\net6.0\ISIT.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\ISIT\obj\Debug\net6.0\ISIT.dll
+C:\Users\Acer\Desktop\ISIT\obj\Debug\net6.0\refint\ISIT.dll
+C:\Users\Acer\Desktop\ISIT\obj\Debug\net6.0\ISIT.pdb
+C:\Users\Acer\Desktop\ISIT\obj\Debug\net6.0\ISIT.genruntimeconfig.cache
+C:\Users\Acer\Desktop\ISIT\obj\Debug\net6.0\ref\ISIT.dll
+C:\Users\Acer\Desktop\ISIT\bin\Debug\net6.0\ISIT.xml
+C:\Users\Acer\Desktop\ISIT\obj\Debug\net6.0\ISIT.xml
